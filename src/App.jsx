@@ -1,13 +1,13 @@
 import React from 'react'
 import './App.css'
-import Books from './Components/Books'
+import Page2 from './Components/Page2'
 
 function App() {
   
 
   return (
     <>
-      <Books />
+      <Page2 />
     </>
   )
 }
